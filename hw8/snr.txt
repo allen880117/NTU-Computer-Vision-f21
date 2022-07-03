@@ -1,0 +1,32 @@
+ga-10 SNR =  13.58882895871633
++ Box    3x3           SNR =  17.722202957941068
++ Box    5x5           SNR =  14.855578341147243
++ Median 3x3           SNR =  17.669157496814975
++ Median 5x5           SNR =  15.98082560990084
++ Opening then Closing SNR =  13.270769659897947
++ Closing then Opening SNR =  13.581888296723507
+
+ga-30 SNR =  4.165632265757525
++ Box    3x3           SNR =  12.594329142639767
++ Box    5x5           SNR =  13.283431847945115
++ Median 3x3           SNR =  11.058266829486401
++ Median 5x5           SNR =  12.868245349499098
++ Opening then Closing SNR =  11.116961658597456
++ Closing then Opening SNR =  11.160453439468505
+
+sp-005 SNR =  0.916161672556647
++ Box    3x3           SNR =  9.431499313755257
++ Box    5x5           SNR =  11.140844539666697
++ Median 3x3           SNR =  19.24453290317388
++ Median 5x5           SNR =  16.387636320912787
++ Opening then Closing SNR =  5.7554128420638975
++ Closing then Opening SNR =  4.8040700940524985
+
+sp-010 SNR =  -2.0770591432225465
++ Box    3x3           SNR =  6.397146215532374
++ Box    5x5           SNR =  8.596971730159158
++ Median 3x3           SNR =  15.259306721677483
++ Median 5x5           SNR =  15.763144940859169
++ Opening then Closing SNR =  -2.0908723982344424
++ Closing then Opening SNR =  -2.5074338240833978
+
